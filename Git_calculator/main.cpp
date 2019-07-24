@@ -17,5 +17,8 @@ int main()
 	case '-':
 		cout << "»©¸é " << a - b << endl;
 		break;
+	case '*':
+		cout << "°öÇÏ¸é" << a * b << endl;
+		break;
 	}
 }
