@@ -19,5 +19,9 @@ int main()
 		break;
 	case '/':
 		cout << "나누면" << a / b << endl;
+		break;
+	case '*':
+		cout << "곱하면" << a * b << endl;
+		break;
 	}
 }
