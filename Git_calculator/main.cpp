@@ -17,5 +17,7 @@ int main()
 	case '-':
 		cout << "»©¸é " << a - b << endl;
 		break;
+	case '/':
+		cout << "³ª´©¸é" << a / b << endl;
 	}
 }
